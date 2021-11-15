@@ -28,6 +28,8 @@
 |19|MTWI-2018 网络图像的文本识别|中文，英文| [图像文件名].txt	|[MTWI 2018 挑战赛一](https://tianchi.aliyun.com/competition/entrance/231684/information)	|[MTWI 2018 挑战赛一](https://tianchi.aliyun.com/competition/entrance/231684/information)|20000张图像，要由合成图像，产品描述，网络广告构成|
 |20|mjsynth|英文| [图像文件名].txt	|[Synthetic Word Dataset](https://github.com/clovaai/deep-text-recognition-benchmark) |[百度云](https://pan.baidu.com/s/1KSNLv4EY3zFWHpBYlpFCBQ) 提取码：rryk|训练：MJSynth和SynthText 验证：IIIT, SVT, IC03, IC13, IC15, SVTP, CUTE|
 |21|Synthetic Chinese String Dataset|中文/英文/标点| todo	|[Characters Recognition](https://github.com/Sierkinhane/CRNN_Chinese_Characters_Rec) |[百度云](https://pan.baidu.com/s/1ufYbnZAZ1q0AlK7yZ08cvQ)|训练：MJSynth和SynthText 验证：IIIT, SVT, IC03, IC13, IC15, SVTP, CUTE|
+|22|The IIIT 5K-word dataset|英文| todo	|[Scene Text Recognition using Higher Order Language Priors](http://cvit.iiit.ac.in/projects/SceneTextUnderstanding/IIIT5K.html) |[http://cvit.iiit.ac.in/](http://cvit.iiit.ac.in/projects/SceneTextUnderstanding/IIIT5K-Word_V3.0.tar.gz)|5000张照片 Scene Text Recognition using Higher Order Language Priors|
+|23|手写体 OCR 识别竞赛|中| todo	|[2021AIWIN（秋）—— 手写体 OCR 识别竞赛](http://ailab.aiwin.org.cn/competitions/65#learn_the_details) |[手写体 OCR 识别竞赛](http://ailab.aiwin.org.cn/my/datasets/download/125ee28f-f9f7-454f-a43d-3ff8d0d2033c)|8 千张图像，包含年份、金额2种信息;2 千张图像|
 
 ## 参考
 
